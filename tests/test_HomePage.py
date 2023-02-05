@@ -35,7 +35,7 @@ class TestHomePage(BaseClass):
                 print(subproduct_obj.get_SubProductName(i).get_attribute("data-target-list-handle"))
                 self.scrollbar("continue")
 
-                #continua with here and also compare with skype file
+                #continua with here and also compare with skype file and also compare with SeleniumFrameworkDesign which is available on unused folder
 
 
 
